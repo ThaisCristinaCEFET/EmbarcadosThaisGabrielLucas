@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\aluno\\esp\\esp-idf",
+    "idf.pythonInstallPath": "C:\\Users\\aluno\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM1",
+    "idf.toolsPathWin": "C:\\Users\\aluno\\.espressif"
+}
