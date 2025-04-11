@@ -1,10 +1,11 @@
 {
     "C_Cpp.intelliSenseEngine": "default",
-    "idf.espIdfPathWin": "C:\\Users\\aluno\\esp\\esp-idf",
-    "idf.pythonInstallPath": "C:\\Users\\aluno\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.espIdfPathWin": "c:\\Espressif\\frameworks\\esp-idf-v5.4.1\\v5.4.1\\esp-idf",
+    "idf.pythonInstallPath": "c:\\Espressif\\tools\\tools\\idf-python\\3.11.2\\python.exe",
     "idf.openOcdConfigs": [
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
-    "idf.portWin": "COM9",
-    "idf.toolsPathWin": "C:\\Users\\aluno\\.espressif"
+    "idf.portWin": "COM6",
+    "idf.toolsPathWin": "c:\\Espressif\\tools",
+    "idf.flashType": "UART"
 }
