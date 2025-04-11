@@ -5,6 +5,6 @@
     "idf.openOcdConfigs": [
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
-    "idf.portWin": "COM1",
+    "idf.portWin": "COM9",
     "idf.toolsPathWin": "C:\\Users\\aluno\\.espressif"
 }
