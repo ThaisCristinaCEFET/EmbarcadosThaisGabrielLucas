@@ -149,7 +149,7 @@ static bool IRAM_ATTR timer_relogio(gptimer_handle_t timer, const gptimer_alarm_
         .alarm_count = edata->alarm_value + 1000000,
     };
     gptimer_set_alarm_action(timer, &alarm_config);
-
+    //este
     return (high_task_awoken == pdTRUE);
 }
 
